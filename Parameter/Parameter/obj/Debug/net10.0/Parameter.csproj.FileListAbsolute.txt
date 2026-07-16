@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.AssemblyInfo.cs
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Parameter\Parameter\bin\Debug\net10.0\Parameter.exe
+C:\Users\root\source\repos\Parameter\Parameter\bin\Debug\net10.0\Parameter.deps.json
+C:\Users\root\source\repos\Parameter\Parameter\bin\Debug\net10.0\Parameter.runtimeconfig.json
+C:\Users\root\source\repos\Parameter\Parameter\bin\Debug\net10.0\Parameter.dll
+C:\Users\root\source\repos\Parameter\Parameter\bin\Debug\net10.0\Parameter.pdb
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.dll
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\refint\Parameter.dll
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.pdb
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\Parameter.genruntimeconfig.cache
+C:\Users\root\source\repos\Parameter\Parameter\obj\Debug\net10.0\ref\Parameter.dll

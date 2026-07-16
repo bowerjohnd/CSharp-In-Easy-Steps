@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\Cast\Cast\bin\Debug\net10.0\Cast.exe
+C:\Users\root\source\repos\Cast\Cast\bin\Debug\net10.0\Cast.deps.json
+C:\Users\root\source\repos\Cast\Cast\bin\Debug\net10.0\Cast.runtimeconfig.json
+C:\Users\root\source\repos\Cast\Cast\bin\Debug\net10.0\Cast.dll
+C:\Users\root\source\repos\Cast\Cast\bin\Debug\net10.0\Cast.pdb
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.AssemblyInfo.cs
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.dll
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\refint\Cast.dll
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.pdb
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\Cast.genruntimeconfig.cache
+C:\Users\root\source\repos\Cast\Cast\obj\Debug\net10.0\ref\Cast.dll

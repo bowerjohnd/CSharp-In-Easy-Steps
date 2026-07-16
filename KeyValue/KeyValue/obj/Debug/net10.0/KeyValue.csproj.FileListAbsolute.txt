@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\KeyValue\KeyValue\bin\Debug\net10.0\KeyValue.exe
+C:\Users\root\source\repos\KeyValue\KeyValue\bin\Debug\net10.0\KeyValue.deps.json
+C:\Users\root\source\repos\KeyValue\KeyValue\bin\Debug\net10.0\KeyValue.runtimeconfig.json
+C:\Users\root\source\repos\KeyValue\KeyValue\bin\Debug\net10.0\KeyValue.dll
+C:\Users\root\source\repos\KeyValue\KeyValue\bin\Debug\net10.0\KeyValue.pdb
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.AssemblyInfo.cs
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.dll
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\refint\KeyValue.dll
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.pdb
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\KeyValue.genruntimeconfig.cache
+C:\Users\root\source\repos\KeyValue\KeyValue\obj\Debug\net10.0\ref\KeyValue.dll
