@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\Features\Features\bin\Debug\net10.0\Features.exe
+C:\Users\root\source\repos\Features\Features\bin\Debug\net10.0\Features.deps.json
+C:\Users\root\source\repos\Features\Features\bin\Debug\net10.0\Features.runtimeconfig.json
+C:\Users\root\source\repos\Features\Features\bin\Debug\net10.0\Features.dll
+C:\Users\root\source\repos\Features\Features\bin\Debug\net10.0\Features.pdb
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.AssemblyInfo.cs
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.sourcelink.json
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.dll
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\refint\Features.dll
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.pdb
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\Features.genruntimeconfig.cache
+C:\Users\root\source\repos\Features\Features\obj\Debug\net10.0\ref\Features.dll

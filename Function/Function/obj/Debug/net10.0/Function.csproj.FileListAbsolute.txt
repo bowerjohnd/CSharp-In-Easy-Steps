@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\Function\Function\bin\Debug\net10.0\Function.exe
+C:\Users\root\source\repos\Function\Function\bin\Debug\net10.0\Function.deps.json
+C:\Users\root\source\repos\Function\Function\bin\Debug\net10.0\Function.runtimeconfig.json
+C:\Users\root\source\repos\Function\Function\bin\Debug\net10.0\Function.dll
+C:\Users\root\source\repos\Function\Function\bin\Debug\net10.0\Function.pdb
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.AssemblyInfo.cs
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.dll
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\refint\Function.dll
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.pdb
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\Function.genruntimeconfig.cache
+C:\Users\root\source\repos\Function\Function\obj\Debug\net10.0\ref\Function.dll

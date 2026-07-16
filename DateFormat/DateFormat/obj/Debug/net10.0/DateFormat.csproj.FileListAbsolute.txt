@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\DateFormat\DateFormat\bin\Debug\net10.0\DateFormat.exe
+C:\Users\root\source\repos\DateFormat\DateFormat\bin\Debug\net10.0\DateFormat.deps.json
+C:\Users\root\source\repos\DateFormat\DateFormat\bin\Debug\net10.0\DateFormat.runtimeconfig.json
+C:\Users\root\source\repos\DateFormat\DateFormat\bin\Debug\net10.0\DateFormat.dll
+C:\Users\root\source\repos\DateFormat\DateFormat\bin\Debug\net10.0\DateFormat.pdb
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.AssemblyInfo.cs
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.sourcelink.json
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.dll
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\refint\DateFormat.dll
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.pdb
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\DateFormat.genruntimeconfig.cache
+C:\Users\root\source\repos\DateFormat\DateFormat\obj\Debug\net10.0\ref\DateFormat.dll

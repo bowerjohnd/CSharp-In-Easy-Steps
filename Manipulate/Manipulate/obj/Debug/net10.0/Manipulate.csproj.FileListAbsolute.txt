@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\Manipulate\Manipulate\bin\Debug\net10.0\Manipulate.exe
+C:\Users\root\source\repos\Manipulate\Manipulate\bin\Debug\net10.0\Manipulate.deps.json
+C:\Users\root\source\repos\Manipulate\Manipulate\bin\Debug\net10.0\Manipulate.runtimeconfig.json
+C:\Users\root\source\repos\Manipulate\Manipulate\bin\Debug\net10.0\Manipulate.dll
+C:\Users\root\source\repos\Manipulate\Manipulate\bin\Debug\net10.0\Manipulate.pdb
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.AssemblyInfo.cs
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.sourcelink.json
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.dll
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\refint\Manipulate.dll
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.pdb
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\Manipulate.genruntimeconfig.cache
+C:\Users\root\source\repos\Manipulate\Manipulate\obj\Debug\net10.0\ref\Manipulate.dll
