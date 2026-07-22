@@ -1,0 +1,46 @@
+﻿Console.Title = "Base";
+
+// top-level statements, step 6
+
+Daughter anna = new Daughter();
+Son brad = new Son();
+Son carl = new Son(100);
+
+Console.ReadKey();
+
+
+public class Parent
+{
+    public Parent()
+    {
+        Console.WriteLine("Parent Called");
+    }
+
+    public Parent(int num)
+    {
+        Console.WriteLine("Parent+ Called " + num);
+    }
+}
+
+public class Daughter : Parent
+{
+    public Daughter()
+    {
+        Console.WriteLine("\tDaughter Called\n");
+    }
+}
+
+public class Son : Parent
+{
+    public Son()
+    {
+        Console.WriteLine("\tSon Called\n");
+    }
+
+    // overloaded constructor, step 5
+    public Son(int num) : base(num) // default base() calls Parent or overloaded base(num) calls Parent+
+    {
+        Console.WriteLine("\tSon+ Called: " + num);
+    }
+
+}
